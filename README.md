@@ -1,20 +1,19 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Hassansajjad4it.HassanSajjad)
 
-[![Google Certified](https://img.shields.io/badge/Google_Certified-ID_MNEDRAHEE-2979FF?logo=google&logoColor=ffffff)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) [![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-London-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/) [![Microsoft Ambassador](https://img.shields.io/badge/Microsoft-Ambassador-2962FF?logo=microsoft&logoColor=ffffff)](https://givemycertificate.com/verify/2011002321000380) [![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors) [![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-2962FF?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors) [![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors)
 
 ### Hi, Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="Developer Usama Sarwar" src="code.gif" width="500" height="320" />
 
-- 😄 Pronouns me as `/ue-saw-ma/`
-- 🎓 COMSATS University Islamabad
-- 🏛 Senior Team Lead at Bytrix Technologies
+- 😄 Pronouns me as `/ha-ss-an/`
+- 🎓 Superior University
+- 🏛 Software Engineer at Virya
 - 💻 Cross Platform App Developer
 - ⚡ Expert at developing eCommerce Solutions
 - 🌱 Learning **Data Science**
-- 🔭 Current Project: **AlShaafi** `AI & ML`
+- 🔭 Current Project: `AI & ML`
 - ☕️ Coffee Lover
-- 🇵🇰 Faisalabad, Punjab, Pakistan
-- 📱 (+92) 31 0000 777 3
+- 🇵🇰 Lahore, Punjab, Pakistan
+- 📱 (+92) 31 045 380 39 
 
 <br><br>
 <div align="center">
@@ -23,7 +22,7 @@
 </a>
 <br><br>
 <p align="center"> Let's Connect 🔥</p>
-<a href="https://usama.dev">
+<a href="https://hassansajjad4it.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
 <a href="https://github.com/usamasarwar/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
@@ -53,39 +52,11 @@
     
 ## Current Project ⚕
 
->### AlShaafi | Corona Virus (COVID19) Detection App
-><img align="right" alt="Programming" src="coding.png" height="250" />
-> Diseases never come with prior intimation. In real-world scenarios reporting such diseases is a real challenge. This challenge is completed by "Al-Shaafi"; an idea to automate the process of disease prediction and effective treatment. Through this app, you would be able to get one more way to properly medical checkups without visiting hospitals. We have developed an expert system named “Al-Shaafi” that provides medical facilities to the patients in the minimum possible time. This system may diagnose the patient. This diagnosis will inform the patients about their disease they are suffering from. This expert system also facilitates the patients in the treatment for the respective illness they are suffering with. In this system, a team of dedicated and expert doctors would be available if a patient needs medical consultancy. Emergency services like Ambulance and Rescue are available 24/7. This expert system also facilitates women in obstetrical and gynecological treatment. It has been observed that when the patient visits the doctor for the next time, the medical history of the patient is usually overlooked. Al-Shaafi provides the facility to record the patient's histories. This expert system virtually connects a patient to the doctor for medical consultancy.
->`Corona Virus` `COVID19` `Artificial Intelligence` `Machine Learning` `Flutter`
-<br>[![Android App](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/App-Store/releases/download/App-Store/alshaafi.apk) [![Website](https://img.shields.io/badge/Web-App-211F1F?logo=google-chrome&logoColor=ffffff)](https://alshaafi.web.app)
+
 
 ## Recent Projects ⚡
 
->**Assignmento**<br>Tool that converts plain text to handwriting and exports the output as images or PDF files<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://assignmento.org) [![Made with Flutter](https://img.shields.io/badge/Made_with-JavaScript-f0db4f?logo=javascript&logoColor=ffffff)](https://flutter.dev)
 
->**Pakistan Live TV**<br>Live Broadcasting of Asian TV Channels<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://pakistanlive.tv) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=pakistanlive.tv) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
->**AlphaRanker**<br>Tool that ranks social media profiles in serach engines<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://alpharanker.com/) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=usamasarwar.alpharanker) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
->**MiniMax and Alpha-BetaPruning Simulator**<br>This tool builds with a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/minimax-simulator/index.html) [![Made with Flutter](https://img.shields.io/badge/Made_with-PHP-0175C2?logo=php&logoColor=ffffff)](https://www.php.net/)
-
-### Open-Source Projects ✨
-
->**FlutterCapsule**<br>Cheatsheet for Flutter Developers<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/fluttercapsule/) [![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/fluttercapsule) [![Made with Flutter](https://img.shields.io/badge/Made_for-FlutterDev-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
->**Nina News App**<br>Iraqi National News Agency App<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/flutter_news_app) [![Android](https://img.shields.io/badge/Android-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter_news_app/releases/tag/v1.0.0) [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter_news_app) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
->**Weather Forecast**<br>Website for live weather broadcasting and weather prediction<br>[![Website](https://img.shields.io/badge/Web-API-FF3D00?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/weather-forecast/) [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/weather-forecast) [![Made with Flutter](https://img.shields.io/badge/Made_with-PHP-0175C2?logo=php&logoColor=ffffff)](https://flutter.dev)
-
->**Compiler Contruction Building Blocks Software**<br>Java Software that contains building blocks for the construction of a compiler<br>[![Desktop](https://img.shields.io/badge/Windows-Software-00C853?logo=hack-the-box&logoColor=ffffff)](https://github.com/UsamaSarwar/Compiler-Construction-Building-Blocks/releases) [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/Compiler-Construction-Building-Blocks) [![Made with Java](https://img.shields.io/badge/Made_with-JavaFX-007396?logo=java&logoColor=ffffff)](https://openjfx.io/)
-
-## Global Contributions 💻
-
->**GetX Contributor**<br>Flutter's State Management Package<br>[![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors)
-
->**Agora Contributor**<br>Flutter's Video Calling Package<br>[![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors)
-
->**CSV Contributor**<br>Flutter's CSV Utility Package<br>[![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors)
 
 ## Tools & Technology 🛠
 <div align="center">
