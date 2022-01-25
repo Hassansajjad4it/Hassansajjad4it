@@ -7,7 +7,7 @@
 - 😄 Pronouns me as `/ha-ss-an/`
 - 🎓 Superior University
 - 🏛 Software Engineer at Virya
-- 💻 Cross Platform App Developer
+- 💻 Full Stack Developer
 - ⚡ Expert at developing eCommerce Solutions
 - 🌱 Learning **Data Science**
 - 🔭 Current Project: `AI & ML`
