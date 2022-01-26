@@ -52,9 +52,9 @@
 
 
 ## Recent Projects ⚡
-- Tkc Kitchens
-- Ziegal
-- Digital Marketing Site
+- Tkc Kitchens (http://tkckitchens.co.uk/)
+- Ziegal (https://www.ziegal.co.uk/)
+- Digital Marketing Site (http://35.234.132.125/)
 
 
 ## Tools & Technology 🛠
