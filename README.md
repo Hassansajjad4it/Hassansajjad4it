@@ -10,7 +10,7 @@
 - 💻 Full Stack Developer
 - ⚡ Expert at developing eCommerce Solutions
 - 🌱 Learning **Data Science**
-- 🔭 Current Project: `AI & ML`
+- 🔭 Current Project: ACQ Dashbord
 - ☕️ Coffee Lover
 - 🇵🇰 Lahore, Punjab, Pakistan
 - 📱 (+92) 31 045 380 39 
@@ -48,11 +48,13 @@
 </div>
     
 ## Current Project ⚕
-
+- Dashbord using Data Analysis and Django 
 
 
 ## Recent Projects ⚡
-
+- Tkc Kitchens
+- Ziegal
+- Digital Marketing Site
 
 
 ## Tools & Technology 🛠
