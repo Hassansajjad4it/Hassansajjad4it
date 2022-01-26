@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_Photoshop-00aeff?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe_Illustrator-ff9900?style=for-the-badge&logo=Adobe-illustrator&logoColor=white" />
-\<br><br>
+<br><br>
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassansajjad4it&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
 <br>
