@@ -18,7 +18,7 @@
 <br><br>
 <div align="center">
 <a href="https://stars.github.com/nominate/">
-<img src="" data-canonical-src="" style="max-width: 100%;"></a>
+<img src="https://img.shields.io/badge/Nominate_Hassan_as_GitHub_Star-@Hassansajjad4it-D50000?logo=GitHub&amp;logoColor=white" data-canonical-src="" style="max-width: 100%;"></a>
 <br><br>
 <p align="center"> Let's Connect 🔥</p>
 <a href="https://hassansajjad4it.github.io/">
