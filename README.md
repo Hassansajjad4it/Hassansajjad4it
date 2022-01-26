@@ -18,7 +18,7 @@
 <br><br>
 <div align="center">
 <a href="https://stars.github.com/nominate/">
-<img src="https://camo.githubusercontent.com/78645b5b8054d23361c69f41bce3ccdd37e4f41a2763ac76b6edbdb145046e7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f6d696e6174655f5573616d615f61735f4769744875625f537461722d405573616d615361727761722d4435303030303f6c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Nominate_Hassan_as_GitHub_Star-@Hassansajjad4it-D50000?logo=GitHub&amp;logoColor=white" style="max-width: 100%;"></a>
+<img src="https://camo.githubusercontent.com/78645b5b8054d23361c69f41bce3ccdd37e4f41a2763ac76b6edbdb145046e7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f6d696e6174655f5573616d615f61735f4769744875625f537461722d405573616d615361727761722d4435303030303f6c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="" style="max-width: 100%;"></a>
 <br><br>
 <p align="center"> Let's Connect 🔥</p>
 <a href="https://hassansajjad4it.github.io/">
