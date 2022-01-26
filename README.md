@@ -26,15 +26,13 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
 <a href="https://github.com/Hassansajjad4it">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
-<a href="">
-<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=ffffff"></a>
-<a href="">
+<a href="https://www.linkedin.com/in/hassansajjad4it/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
-<a href="">
+<a href="https://www.facebook.com/hassansajjads4it">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
-<a href="">
+<a href="https://twitter.com/Hassansajjad4IT">
 <img src="https://img.shields.io/badge/Twitter-08A0E9?style=for-the-badge&logo=Twitter&logoColor=ffffff"></a>
-<a href="">
+<a href="https://www.instagram.com/hassansajjad4it/">
 <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
 <a href="">
 <img src="https://img.shields.io/badge/Reviews-211F1F?style=for-the-badge&logo=google&logoColor=ffffff"></a>
@@ -42,11 +40,11 @@
 <img src="https://img.shields.io/badge/ASK.fm-DB3552?style=for-the-badge&logo=askfm&logoColor=ffffff"></a>
 <a href="">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
-<a href="https://m.me/UsamaSarwarOfficial/">
+<a href="">
 <img src="https://img.shields.io/badge/Chat-1877F2?style=for-the-badge&logo=Messenger&logoColor=ffffff"></a>
 <a href="">
 <img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff"></a>
-<a href="https://wa.me/923100007773?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4%0ABank%20Account%20Details%0ATitle%3A%20USAMA%20SARWAR%0AIBAN%3A%20PK90HABB0022417901576303">
+<a href="">
 <img src="https://img.shields.io/badge/Support-Developer-784fff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffffff"></a>
 </div>
     
