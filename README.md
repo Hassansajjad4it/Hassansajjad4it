@@ -4,7 +4,7 @@
 ### Hi, Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="Developer Usama Sarwar" src="code.gif" width="500" height="320" />
 
-- 😄 Pronouns me as `/ha-ss-an/`
+- 😄 Pronounced me as `/ha-ss-an/`
 - 🎓 Superior University
 - 🏛 Software Engineer at Virya
 - 💻 Full Stack Developer
