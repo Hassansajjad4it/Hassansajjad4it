@@ -4,13 +4,12 @@
 ### Hi, Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="Developer Usama Sarwar" src="code.gif" width="500" height="320" />
 
-- 😄 Pronounced me as `/ha-ss-an/`
 - 🎓 Superior University
-- 🏛 Software Engineer at Virya
+- 🏛 Software Engineer at Beyond Logics Inc
 - 💻 Full Stack Developer
 - ⚡ Expert at developing eCommerce Solutions
 - 🌱 Learning **Data Science**
-- 🔭 Current Project: ACQ Dashbord
+- 🔭 Current Project: VenueGps
 - ☕️ Coffee Lover
 - 🇵🇰 Lahore, Punjab, Pakistan
 - 📱 (+92) 31 045 380 39 
