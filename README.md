@@ -5,8 +5,8 @@
 <img align="right" alt="Developer Usama Sarwar" src="code.gif" width="500" height="320" />
 
 - 🎓 Superior University
-- 🏛 Software Engineer at Beyond Logics Inc
-- 💻 Full Stack Developer
+- 🏛 Senior Software Engineer at Ops Max Inc
+- 💻 Full Stack Developer 
 - ⚡ Expert at developing eCommerce Solutions
 - 🌱 Learning **Data Science**
 - 🔭 Current Project: VenueGps
@@ -51,10 +51,10 @@
 
 
 ## Recent Projects ⚡
+- VenueGPS(https://develop.venuegps.com/#/)
 - Data Analysis of Ecommerce Site 
 - Tkc Kitchens (http://tkckitchens.co.uk/)
 - Ziegal (https://www.ziegal.co.uk/)
-- Digital Marketing Site (http://35.234.132.125/)
 
 
 ## Tools & Technology 🛠
