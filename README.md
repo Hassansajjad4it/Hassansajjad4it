@@ -11,8 +11,8 @@
 - 🌱 Learning **Data Science**
 - 🔭 Current Project: VenueGps
 - ☕️ Coffee Lover
-- 🇵🇰 Lahore, Punjab, Pakistan
-- 📱 (+92) 31 045 380 39 
+- ca Mississauga, ON, Canada 
+- 📱 hassansajjad4it@gmail.com
 
 <br><br>
 <div align="center">
